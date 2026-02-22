@@ -6,11 +6,11 @@
 **Category:** Algorithms and Data Structures
 
 ## Before and After
-- **Original artifact:** *[(artifacts/algorithms/ProjectTwo_BEFORE.cpp)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/algorithms/ProjectTwo_BEFORE.cpp)*
-- **Enhanced artifact:** *[(artifacts/algorithms/ProjectTwo_AFTER.cpp)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/algorithms/ProjectTwo_AFTER.cpp)*
+- **Original artifact:** *[artifacts/algorithms/ProjectTwo_BEFORE.cpp](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/algorithms/ProjectTwo_BEFORE.cpp)*
+- **Enhanced artifact:** *[artifacts/algorithms/ProjectTwo_AFTER.cpp](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/algorithms/ProjectTwo_AFTER.cpp)*
 
 ## Narrative
-*[(artifacts/narratives/CS-499 Milestone Three.docx)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Milestone%20Three.docx)*
+*[artifacts/narratives/CS-499 Milestone Three.pdf](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Milestone%20Three.pdf)*
 
 The artifact I enhanced for this milestone is my CS-300 Project Two file. It is a C++ console based course planner program for “ABCU”. I originally created this project in 2023 as part of my Data Structures and Algorithms course. The program reads course data from a CSV file, stores course information in memory, and allows the user to print a sorted course list or look up a specific course and its prerequisites.
 
