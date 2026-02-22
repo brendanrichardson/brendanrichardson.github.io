@@ -1,11 +1,12 @@
 [Home](index.md) | [Code Review](code-review.md) | [Enhancement 1](enhancement-1.md) | [Enhancement 2](enhancement-2.md) | [Enhancement 3](enhancement-3.md)
 
 # Professional Self Assessment
-**Brendan Richardson**
 
 [artifacts/narratives/CS-499 Professional Self Assessment.docx](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Professional%20Self%20Assessment.docx)
 
 [artifacts/narratives/CS-499 Professional Self Assessment.pdf](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Professional%20Self%20Assessment.pdf)
+
+**Brendan Richardson**
 
 Throughout the Computer Science program at Southern New Hampshire University, I have built a foundation that combines software development skills with a strong focus on delivering reliable, decision supporting solutions. Completing CS 499 and developing this ePortfolio helped me shift from simply finishing assignments to thinking like a professional, with more attention on maintainability, scalability, data integrity, and clear communication. After graduation, I plan to apply for Data Analyst, Business Intelligence Analyst, Scrum Master, and Product Manager roles. While these roles look different day to day, they all rely on understanding systems and data well enough to help teams make good decisions and deliver outcomes that stakeholders can trust.
 
