@@ -6,11 +6,11 @@
 **Category:** Databases
 
 ## Before and After
-- **Original artifact:** *[(artifacts/databases/AnimalShelter_BEFORE.py)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/databases/AnimalShelter_BEFORE.py)*
-- **Enhanced artifact:** *[(artifacts/databases/AnimalShelter_AFTER3.py)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/databases/AnimalShelter_AFTER3.py)*
+- **Original artifact:** *[artifacts/databases/AnimalShelter_BEFORE.py](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/databases/AnimalShelter_BEFORE.py)*
+- **Enhanced artifact:** *[artifacts/databases/AnimalShelter_AFTER3.py](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/databases/AnimalShelter_AFTER3.py)*
 
 ## Narrative
-*[(artifacts/narratives/CS-499 Milestone Four.docx)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Milestone%20Four.docx)*
+*[artifacts/narratives/CS-499 Milestone Four.pdf](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Milestone%20Four.pdf)*
 
 The artifact I enhanced for Milestone Four is AnimalShelter.py, the backend module from my CS 340 project that connects to a MongoDB database and performs CRUD operations on an animals collection. I originally created this artifact during CS 340 as part of an analytics focused dashboard application that required reliable database access for reading and managing animal records. The file serves as the data access layer for the project, meaning it is responsible for connecting to the database, executing queries and returning results that can be used by a dashboard or other client code.
 
