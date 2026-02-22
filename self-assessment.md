@@ -2,9 +2,9 @@
 
 # Professional Self Assessment
 
-[artifacts/narratives/CS-499 Professional Self Assessment.docx](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Professional%20Self%20Assessment.docx)
+[Professional Self Assessment.docx](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Professional%20Self%20Assessment.docx)
 
-[artifacts/narratives/CS-499 Professional Self Assessment.pdf](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Professional%20Self%20Assessment.pdf)
+[Professional Self Assessment.pdf](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Professional%20Self%20Assessment.pdf)
 
 **Brendan Richardson**
 
