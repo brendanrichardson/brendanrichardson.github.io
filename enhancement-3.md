@@ -6,8 +6,8 @@
 **Category:** Databases
 
 ## Before and After
-- **Original artifact:** *[(artifacts/software/AnimalShelter_BEFORE.py)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/software/AnimalShelter_BEFORE.py)*
-- **Enhanced artifact:** *[(artifacts/software/AnimalShelter_AFTER3.py)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/software/AnimalShelter_AFTER3.py)*
+- **Original artifact:** *[(artifacts/databases/AnimalShelter_BEFORE.py)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/databases/AnimalShelter_BEFORE.py)*
+- **Enhanced artifact:** *[(artifacts/databases/AnimalShelter_AFTER3.py)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/databases/AnimalShelter_AFTER3.py)*
 
 ## Narrative
 *[(artifacts/narratives/CS-499 Milestone Four.docx)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Milestone%20Four.docx)*
