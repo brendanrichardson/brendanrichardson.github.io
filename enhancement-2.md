@@ -6,8 +6,8 @@
 **Category:** Algorithms and Data Structures
 
 ## Before and After
-- **Original artifact:** *[(artifacts/software/ProjectTwo_BEFORE.cpp)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/software/ProjectTwo_BEFORE.cpp)*
-- **Enhanced artifact:** *[(artifacts/software/ProjectTwo_AFTER.cpp)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/software/ProjectTwo_AFTER.cpp)*
+- **Original artifact:** *[(artifacts/software/ProjectTwo_BEFORE.cpp)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/algorithms/ProjectTwo_BEFORE.cpp)*
+- **Enhanced artifact:** *[(artifacts/software/ProjectTwo_AFTER.cpp)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/algorithms/ProjectTwo_AFTER.cpp)*
 
 ## Narrative
 *[(artifacts/narratives/CS-499 Milestone Three.docx)](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Milestone%20Three.docx)*
