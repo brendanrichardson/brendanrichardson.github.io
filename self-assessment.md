@@ -4,6 +4,7 @@
 **Brendan Richardson**
 
 [artifacts/narratives/CS-499 Professional Self Assessment.docx](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Professional%20Self%20Assessment.docx)
+
 [artifacts/narratives/CS-499 Professional Self Assessment.pdf](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Professional%20Self%20Assessment.pdf)
 
 Throughout the Computer Science program at Southern New Hampshire University, I have built a foundation that combines software development skills with a strong focus on delivering reliable, decision supporting solutions. Completing CS 499 and developing this ePortfolio helped me shift from simply finishing assignments to thinking like a professional, with more attention on maintainability, scalability, data integrity, and clear communication. After graduation, I plan to apply for Data Analyst, Business Intelligence Analyst, Scrum Master, and Product Manager roles. While these roles look different day to day, they all rely on understanding systems and data well enough to help teams make good decisions and deliver outcomes that stakeholders can trust.
@@ -19,16 +20,25 @@ My database enhancement demonstrates database centered skills that support analy
 A security mindset runs throughout my approach. Across my work, I focused on protecting sensitive information, preventing avoidable integrity issues, and designing systems that reduce risk. Even when a project is not explicitly security focused, I have learned to anticipate where vulnerabilities can emerge, such as hardcoded secrets, weak validation, or overreliance on application only checks, and to mitigate those risks through better design and database controls. This matters in every role I am applying for because trust and quality are part of delivering a strong outcome.
 
 **How this ePortfolio supports multiple roles:**
+
 *Data Analyst and Business Intelligence Analyst:* This portfolio demonstrates data integrity, query efficiency, structured problem solving, and clear communication of results and trade offs.
+
 *Scrum Master:* This portfolio demonstrates disciplined planning, iterative improvement, clear written communication, and the ability to translate technical work into stakeholder friendly language.
+
 *Product Manager:* This portfolio demonstrates understanding of system design and constraints, decision making based on trade offs, and delivering value through structured, measurable enhancements.
+
 Together, the artifacts in this ePortfolio tell a connected story about growth and delivery. The software engineering enhancement shows maintainable design and reliability. The algorithms and data structures enhancement shows performance reasoning and correctness validation. The database enhancement shows integrity and efficient access to data for analysis. Across all three, I demonstrate the ability to evaluate an existing solution, identify limitations, implement improvements with clear reasoning, and communicate those decisions effectively. These are skills that translate directly to analytics, product, and delivery focused roles.
 
 **Key Skills Highlighted**
+
 •	Data reasoning and decision support through reliable systems
+
 •	Algorithmic thinking focused on efficiency, validation, and trade offs
+
 •	Database concepts including integrity, indexing, optimization, and analysis friendly querying
+
 •	Technical communication for varied audiences
+
 •	Process mindset that emphasizes iteration, prioritization, and quality focused delivery
 
 
