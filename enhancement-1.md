@@ -6,8 +6,8 @@
 **Category:** Software Design and Engineering
 
 ## Before and After
-- **Original artifact:** *artifacts/software/AnimalShelter_BEFORE.py*
-- **Enhanced artifact:** *artifacts/software/AnimalShelter_AFTER1.py*
+- **Original artifact:** *[artifacts/software/AnimalShelter_BEFORE.py](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/software/AnimalShelter_BEFORE.py)*
+- **Enhanced artifact:** *[artifacts/software/AnimalShelter_AFTER1.py](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/software/AnimalShelter_AFTER1.py)*
 
 ## Narrative
 *[artifacts/narratives/CS-499 Milestone Two.docx](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Milestone%20Two.docx)*
