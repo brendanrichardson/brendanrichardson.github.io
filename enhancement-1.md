@@ -10,7 +10,7 @@
 - **Enhanced artifact:** *artifacts/software/AnimalShelter_AFTER1.py*
 
 ## Narrative
-*artifacts/narratives/CS-499 Milestone Two.docx*
+*[artifacts/narratives/CS-499 Milestone Two.docx](https://github.com/brendanrichardson/brendanrichardson.github.io/blob/main/artifacts/narratives/CS-499%20Milestone%20Two.docx)*
 
   The artifact I selected for this enhancement is the AnimalShelter.py backend module from my CS-340 course. This file was originally created as part of a project designed to support an analytics dashboard that interacts with a MongoDB database containing animal shelter records. The module provides core CRUD functionality and serves as the interface between the database and multiple Jupyter Notebook files used for querying and visualization. Because this artifact plays a central role in managing data access and application logic, it provides a strong foundation for demonstrating software design and engineering principles.
 	I selected this artifact for my ePortfolio because it demonstrates backend software development skills that are directly applicable to data focused applications. The original implementation was functional but tightly coupled with database configuration, connection logic, and CRUD operations all handled within a single class. While this approach worked for the initial project, it limited maintainability, scalability, and clarity as the application could grow more complex. 
