@@ -1,4 +1,5 @@
-# Brendan Richardson — CS 499 ePortfolio
+# Brendan Richardson
+## CS-499 ePortfolio
 
 I’m a Computer Science student at Southern New Hampshire University focused on transitioning into a Data Analyst, Scrum Master, Product Manager, or Business Analyst role. This portfolio highlights my growth in software engineering, algorithms/data structures, and databases through enhanced artifacts and reflections.
 
